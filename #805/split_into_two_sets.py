@@ -29,7 +29,6 @@ def test(lista, l1, l2):
     else:
         return 0
 
-
 br_test = int(input())
 
 for i in range(br_test):
